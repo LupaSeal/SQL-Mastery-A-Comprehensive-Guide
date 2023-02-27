@@ -7,7 +7,7 @@ While this serves as a single instance of illustration, readers can anticipate o
 
 comprehensive handbook that covers a range of essential topics in SQL and related technologies. This handbook includes:
 
-* In-depth coverage of MySQL, PostgreSQL, and SQLite databases
+* In-depth coverage of linking MySQL, PostgreSQL, and SQLite databases to Python
 * Techniques for posting data from HTML to MongoDB and vice versa
 * Practical guidance for working with SQL and Ubuntu
 * An overview of VI Editor and its fundamental commands
